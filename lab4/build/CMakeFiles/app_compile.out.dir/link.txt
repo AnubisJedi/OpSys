@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Werror CMakeFiles/app_compile.out.dir/main_compile.c.o CMakeFiles/app_compile.out.dir/area.c.o CMakeFiles/app_compile.out.dir/sort.c.o -o app_compile.out  -Wl,-rpath,/workspaces/OS_/lab4/build libarea.so libsort.so 

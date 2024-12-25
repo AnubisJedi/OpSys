@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -Werror -shared -Wl,-soname,libsort.so -o libsort.so CMakeFiles/sort.dir/sort.c.o 

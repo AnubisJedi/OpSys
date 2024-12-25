@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -Werror -shared -Wl,-soname,libarea.so -o libarea.so CMakeFiles/area.dir/area.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Werror CMakeFiles/app_dl.out.dir/main_dl.c.o -o app_dl.out  -ldl 

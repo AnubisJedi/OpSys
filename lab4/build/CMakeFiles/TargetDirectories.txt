@@ -1,0 +1,8 @@
+/workspaces/OS_/lab4/build/CMakeFiles/area.dir
+/workspaces/OS_/lab4/build/CMakeFiles/sort.dir
+/workspaces/OS_/lab4/build/CMakeFiles/app_compile.out.dir
+/workspaces/OS_/lab4/build/CMakeFiles/app_dl.out.dir
+/workspaces/OS_/lab4/build/CMakeFiles/unit_tests.dir
+/workspaces/OS_/lab4/build/CMakeFiles/test.dir
+/workspaces/OS_/lab4/build/CMakeFiles/edit_cache.dir
+/workspaces/OS_/lab4/build/CMakeFiles/rebuild_cache.dir
